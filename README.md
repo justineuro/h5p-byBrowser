@@ -1,5 +1,5 @@
 ## h5p-byBrowser
-[h5p-byBrowser](https://github.com/justineuro/h5p-byBrowser) is an implementation of [h5p-standalone](https://github.com/tunapanda/h5p-standalone).  The file [`quad-eq-sum-rts.html`](./quad-eq-sum-rts.html) (see the H5P rendered [here](https://justineuro.github.io/h5p-byBrowser/quad-eq-sum-rts.html) contains a simple H5P that uses the [Branching Scenario H5P template](https://h5p.org/branching-scenario) to deliver learning materials that explain how to find the sum of the roots of a quadratic equation.  
+[h5p-byBrowser](https://github.com/justineuro/h5p-byBrowser) is an implementation of [h5p-standalone](https://github.com/tunapanda/h5p-standalone).  The file [`quad-eq-sum-rts.html`](./quad-eq-sum-rts.html) (see the H5P rendered [here](https://justineuro.github.io/h5p-byBrowser/quad-eq-sum-rts.html)) contains a simple H5P that uses the [Branching Scenario H5P template](https://h5p.org/branching-scenario) to deliver learning materials that explain how to find the sum of the roots of a quadratic equation.  
   
 This folder includes (among others):  
   
